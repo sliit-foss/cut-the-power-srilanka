@@ -11,11 +11,13 @@ import Layout from './components/Layout'
 import Select from './components/Select'
 import { cities, districts, provinces } from './lib'
 import powerLine from './assets/images/icons8-electricity.png'
+import { FormEvent, useState } from 'react'
 
 const App = (): JSX.Element => {
-  const onSubmit = (e: React.FormEvent<HTMLInputElement>) => {
-    e.preventDefault()
-  }
+  const [location, setLocation] = useState<string>()
+  // const [province, setProvince] = useState<string>()
+  // const [district, setDistrict] = useState<string>()
+  // const [city, setCity] = useState<string>()
 
   return (
     <Layout>
@@ -40,8 +42,14 @@ const App = (): JSX.Element => {
               name='location'
               placeholder='Location'
               wrapperStyles='w-full'
+              value={location}
+              onChange={(e: FormEvent<HTMLInputElement>) =>
+                setLocation(e.currentTarget.value)
+              }
             />
-            <Button width='w-32 sm:w-44'>Search</Button>
+            <Button type='submit' width='w-32 sm:w-44'>
+              Search
+            </Button>
           </div>
           <div className='inline-flex items-center space-x-3 w-full'>
             <Select name='province' options={provinces} />
