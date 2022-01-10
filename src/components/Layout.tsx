@@ -1,4 +1,4 @@
-import Navbar from './Navbar'
+// import Navbar from './Navbar'
 
 type LayoutProps = {
   children: JSX.Element[] | JSX.Element
@@ -7,8 +7,8 @@ type LayoutProps = {
 const Layout = ({ children }: LayoutProps): JSX.Element => {
   return (
     <>
-      <Navbar />
-      <main className='relative min-h-screen bg-primary-dark font-poppins text-white-base'>
+      {/* <Navbar /> */}
+      <main className='relative min-h-screen font-workSans bg-slate-50 text-primary-dark'>
         {children}
       </main>
     </>
