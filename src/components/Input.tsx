@@ -31,11 +31,11 @@ const Input = ({
       <input
         type={type}
         placeholder={placeholder}
-        className={`peer h-10 block w-full rounded-md border-green-base border-opacity-50 focus:ring focus:ring-green-base focus:ring-opacity-10 focus:border-b-4 focus:border-green-base shadow-sm focus:outline-none placeholder-transparent text-black transition-all ease-in px-2`}
+        className={`peer h-10 block bg-tertiary w-full rounded-md border-secondary-base border-opacity-50 focus:ring focus:ring-secondary-base focus:ring-opacity-10 shadow-sm focus:outline-none placeholder-transparent text-primary-dark transition-all ease-in px-2 outline-none`}
       />
       <label
         htmlFor={`${name}`}
-        className={`absolute left-0 -top-4  ${labelStyles} transition-all ease-out peer-empty:text-xs peer-placeholder-shown:top-3 peer-placeholder-shown:left-3 peer-focus:-top-5 peer-focus:left-0 peer-focus:text-black peer-valid:text-black peer-empty:text-gray-600'} peer-focus:text-xs cursor-text`}
+        className={`absolute left-0 -top-4  ${labelStyles} transition-all ease-out peer-empty:text-xs peer-placeholder-shown:top-3 peer-placeholder-shown:left-3 peer-focus:-top-5 peer-focus:left-0 peer-focus:text-primary-dark peer-valid:text-primary-dark peer-empty:text-gray-600 peer-focus:text-xs cursor-text`}
       >
         {label}
       </label>

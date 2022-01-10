@@ -1,6 +1,6 @@
 interface ButtonProps {
   onClick?: () => void
-  children: JSX.Element[] | JSX.Element
+  children: JSX.Element[] | JSX.Element | string
   padding?: string
   width?: string
   margin?: string
@@ -10,12 +10,12 @@ const Button = ({
   onClick,
   children,
   padding = 'py-2 px-4',
-  width = '',
+  width = 'w-20 sm:w-32',
   margin = '',
 }: ButtonProps): JSX.Element => {
   return (
     <button
-      className={`${padding} ${margin} ${width} text-sm text-primary ring-1 ring-primary hover:bg-primary hover:bg-opacity-20 rounded-sm shadow-md transition ease-in`}
+      className={`${padding} ${margin} ${width} text-sm text-white ring-1 ring-secondary-light bg-secondary-base hover:bg-secondary-dark rounded-full shadow-md transition ease-in`}
       onClick={onClick}
     >
       {children}
