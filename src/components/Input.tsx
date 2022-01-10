@@ -41,7 +41,7 @@ const Input = ({
       />
       <label
         htmlFor={`${name}`}
-        className={`absolute left-0 -top-4  ${labelStyles} transition-all ease-out peer-empty:text-sm peer-placeholder-shown:top-3 peer-placeholder-shown:left-3 peer-focus:-top-6 peer-focus:left-0 peer-focus:text-primary-dark peer-valid:text-primary-dark peer-empty:text-gray-600 peer-focus:text-sm cursor-text`}
+        className={`absolute left-0 -top-6  ${labelStyles} transition-all ease-out peer-empty:text-sm peer-placeholder-shown:top-3 peer-placeholder-shown:left-3 peer-focus:-top-6 peer-focus:left-0 peer-focus:text-primary-dark peer-valid:text-primary-dark peer-empty:text-gray-600 peer-focus:text-sm cursor-text`}
       >
         {label}
       </label>
