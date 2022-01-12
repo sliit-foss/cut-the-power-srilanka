@@ -1,0 +1,1496 @@
+[
+  {
+    "Group": "Group A",
+    "District": "Ampara",
+    "Feeder Number": 6,
+    "Affected Areas": "Hingurana,Padagoda,Nellikele,Vadinagala,Siyambalnduwa,Ambagaspitiya,Mahakalugolla,Lahugala,Pottuvil,Panama"
+  },
+  {
+    "Group": "Group A",
+    "District": "Ampara",
+    "Feeder Number": 8,
+    "Affected Areas": "Hardy, Ampara town,Ambagawella, Gangolla,Igniyagala, Namal Oya, Ampara Water board."
+  },
+  {
+    "Group": "Group A",
+    "District": "Aniyakanda",
+    "Feeder Number": 1,
+    "Affected Areas": "Part of Ekala Industrial Zone. Udammita Road, Agaradaguru Mw"
+  },
+  {
+    "Group": "Group A",
+    "District": "Anuradhapura",
+    "Feeder Number": 1,
+    "Affected Areas": "Pandulagama, Nochchiyagama, Kalaoya"
+  },
+  {
+    "Group": "Group A",
+    "District": "Badulla",
+    "Feeder Number": 6,
+    "Affected Areas": "Haliela"
+  },
+  {
+    "Group": "Group A",
+    "District": "Balangoda",
+    "Feeder Number": 4,
+    "Affected Areas": "Udawela, Opanayaka, Hunuwala, Pelmadulla, Pathakada, Lellopitiya"
+  },
+  {
+    "Group": "Group A",
+    "District": "Beliatta",
+    "Feeder Number": 6,
+    "Affected Areas": "Hakmana, Gangodagama, Nihiluwa, Okewela, Narandeniya, Kongala, Denagama"
+  },
+  {
+    "Group": "Group A",
+    "District": "Beliatta",
+    "Feeder Number": 8,
+    "Affected Areas": "Weeraketiya, Hakuruwela"
+  },
+  {
+    "Group": "Group A",
+    "District": "Biyagama",
+    "Feeder Number": 7,
+    "Affected Areas": "Siyabalpe J/N, Mahena Rd, Kolabahenawatta, Peragas J/N, Bandarawatta J/N"
+  },
+  {
+    "Group": "Group A",
+    "District": "Biyagama",
+    "Feeder Number": 12,
+    "Affected Areas": "Kottunna Rd, Samagi MW, Yatawatta, Walekade, Sampaya MW, Gongithota, Appugewatt, Paranakanda"
+  },
+  {
+    "Group": "Group A",
+    "District": "Biyagama",
+    "Feeder Number": 14,
+    "Affected Areas": "Dekatana, Katulanda, Moragala, Demalagama, Kanduboda, Pradeepagama, Delgoda, Udupila, Meegahawatta, Akurumaulla, Naranwala, Kirikitta, Weliweriya, Etikehelgalla, Henegama, Wilimbula, Dnawukanda, Keragala, Narampola, Kalukodayawa, Ulahitiwala, Malwana, Yabaraluwa, Paranagoda, Indolamulla, Dompe, Darshaneeyawatta, Dehigahahena, Dambukanda, GAlakona, Guruwala, Palugama, Giridara Pasal MW"
+  },
+  {
+    "Group": "Group A",
+    "District": "Bolawatta",
+    "Feeder Number": 4,
+    "Affected Areas": "Naththandiya"
+  },
+  {
+    "Group": "Group A",
+    "District": "Bolawatta",
+    "Feeder Number": 5,
+    "Affected Areas": "Bolawaththa"
+  },
+  {
+    "Group": "Group A",
+    "District": "Deniyaya",
+    "Feeder Number": 4,
+    "Affected Areas": "Kodikaragoda,Nilwala,Alapaladeniya,Southernhill,Eadadukitha,Mapanape,Dangala ,Banagala, Yatibanagala,Ketawalawatta, Thawalama,Neluwa,Opatha,Halwitigala,Yattapatha,Thiniyawala,Kalubowitiyana,Leelwala,Warukandeniya,Weerapana"
+  },
+  {
+    "Group": "Group A",
+    "District": "Embilipitiya",
+    "Feeder Number": 1,
+    "Affected Areas": "Kachchigala, Kuttigala, Barawakumbuka and Angunukolapalessa, Mulana, Binkama, Uswewa, Murawesihena"
+  },
+  {
+    "Group": "Group A",
+    "District": "Habarana",
+    "Feeder Number": 1,
+    "Affected Areas": "Hingurakgoda, Diyabeduma, Bakamoona"
+  },
+  {
+    "Group": "Group A",
+    "District": "Habarana",
+    "Feeder Number": 5,
+    "Affected Areas": "Galenbindunuwewa, Maradankadawala, Thirappane, Ganewalpola"
+  },
+  {
+    "Group": "Group A",
+    "District": "Horana",
+    "Feeder Number": 7,
+    "Affected Areas": "Ingiriya,Handapangoda,Poruwadanda,Saw gas handiya,Dabara"
+  },
+  {
+    "Group": "Group A",
+    "District": "Katunayaka",
+    "Feeder Number": 1,
+    "Affected Areas": "Adiambalama,Dawamottawa,Peellawatta"
+  },
+  {
+    "Group": "Group A",
+    "District": "Kelaniya",
+    "Feeder Number": 2,
+    "Affected Areas": "Hendala, Wattala"
+  },
+  {
+    "Group": "Group A",
+    "District": "Kerawalapitiya",
+    "Feeder Number": 1,
+    "Affected Areas": "Maradana PSS, Elakanda, Awarakotuwa, Pinwatta"
+  },
+  {
+    "Group": "Group A",
+    "District": "Kilinochchi",
+    "Feeder Number": 3,
+    "Affected Areas": "Paranthan Junction to Gowtharimunai through Poonagary, Paranthan Junction to Puliyampokkanai, Tharmapuram, Vishuvamadhu, Theraavil, Puthukudiyiruppu, Maaththalan, Karachchikudiyiruppu, Mullaitheevu Town, Chilawaththai to kokkulai, Umayalpuram, Elephant Pass, Part of Iyakachchi"
+  },
+  {
+    "Group": "Group A",
+    "District": "Kiribathkumbura",
+    "Feeder Number": 8,
+    "Affected Areas": "Peradeniya,Eriyagma,Gelioya,"
+  },
+  {
+    "Group": "Group A",
+    "District": "Kiribathkumbura",
+    "Feeder Number": 12,
+    "Affected Areas": "Embekka, Daulagala,welamboda,Gadaladeniya,Lankathilaka"
+  },
+  {
+    "Group": "Group A",
+    "District": "Kolonnawa",
+    "Feeder Number": 8,
+    "Affected Areas": "Rajagiriya-Koswatta Lake Drive"
+  },
+  {
+    "Group": "Group A",
+    "District": "kosgama",
+    "Feeder Number": 5,
+    "Affected Areas": "Madola, Getaheththa, Hewainna, Minnana, Batangala, Panawala, Yogama, Napawala, Pambegama, Thatuwalakanda"
+  },
+  {
+    "Group": "Group A",
+    "District": "kosgama",
+    "Feeder Number": 7,
+    "Affected Areas": "Meegoda,Padukka,Millewa,Kahawala,Watareka,Godagama,Madulawa,Bope"
+  },
+  {
+    "Group": "Group A",
+    "District": "Kotugoda",
+    "Feeder Number": 6,
+    "Affected Areas": "Pallewawa,Unnaruwa, Gamangedara"
+  },
+  {
+    "Group": "Group A",
+    "District": "Kotugoda",
+    "Feeder Number": 5,
+    "Affected Areas": "Bulk Supply"
+  },
+  {
+    "Group": "Group A",
+    "District": "Kurunegala",
+    "Feeder Number": 8,
+    "Affected Areas": "Gokaralla, Redeegama, Hiripitiya"
+  },
+  {
+    "Group": "Group A",
+    "District": "Chilaw",
+    "Feeder Number": 3,
+    "Affected Areas": "Madampe"
+  },
+  {
+    "Group": "Group A",
+    "District": "Chilaw",
+    "Feeder Number": 5,
+    "Affected Areas": "Chilaw, Keeriyankalliya"
+  },
+  {
+    "Group": "Group A",
+    "District": "Kelaniya",
+    "Feeder Number": 2,
+    "Affected Areas": "Hendala, Wattala"
+  },
+  {
+    "Group": "Group A",
+    "District": "Maho",
+    "Feeder Number": 1,
+    "Affected Areas": "Maho"
+  },
+  {
+    "Group": "Group A",
+    "District": "Matara",
+    "Feeder Number": 2,
+    "Affected Areas": "Godagama, Malimbada, Thelijjawila"
+  },
+  {
+    "Group": "Group A",
+    "District": "Matara",
+    "Feeder Number": 11,
+    "Affected Areas": "Dickwella, Rathmale, Talalla, Naotunna, Dandeniya, Radampola, Nilwella"
+  },
+  {
+    "Group": "Group A",
+    "District": "Mathugama",
+    "Feeder Number": 1,
+    "Affected Areas": "Please Exempt this due toMagama Industrial zone, (Nawatthuduwa, Eladuwa, Aluthgamgoda, Keeranthidiya), Kalawila,Warapitiya, Meegama, Galmatta."
+  },
+  {
+    "Group": "Group A",
+    "District": "Naula",
+    "Feeder Number": 6,
+    "Affected Areas": "40th milepost, Naula,"
+  },
+  {
+    "Group": "Group A",
+    "District": "Naula",
+    "Feeder Number": 7,
+    "Affected Areas": "Moragahakanda,Laggala,"
+  },
+  {
+    "Group": "Group A",
+    "District": "Nawalapitiya",
+    "Feeder Number": 6,
+    "Affected Areas": "Gampola,Sinhapitiya"
+  },
+  {
+    "Group": "Group A",
+    "District": "Nawalapitiya",
+    "Feeder Number": 8,
+    "Affected Areas": "Imbulpitiya"
+  },
+  {
+    "Group": "Group A",
+    "District": "New_Galle",
+    "Feeder Number": 2,
+    "Affected Areas": "Unawatuna , Roomassala, Eramudugaha, Aththaragoda, Bambagala, Bataduwa"
+  },
+  {
+    "Group": "Group A",
+    "District": "New_Galle",
+    "Feeder Number": 10,
+    "Affected Areas": "Watareka , Kithulampitiya, Mampitiya , Hapugala , Wackwella, Godakanda, Jambukatiya"
+  },
+  {
+    "Group": "Group A",
+    "District": "Nuwara_Eliya",
+    "Feeder Number": 1,
+    "Affected Areas": "Nuweraeliya,Kandapola,Hawaeliya,"
+  },
+  {
+    "Group": "Group A",
+    "District": "Pallekele",
+    "Feeder Number": 7,
+    "Affected Areas": "Agrico Power Plant"
+  },
+  {
+    "Group": "Group A",
+    "District": "Panadura",
+    "Feeder Number": 9,
+    "Affected Areas": "Panadura PSS , Pallimulla PSS, Thanthirimulla, Hirana"
+  },
+  {
+    "Group": "Group A",
+    "District": "Pannala",
+    "Feeder Number": 5,
+    "Affected Areas": "Diyagampola, Badalgama,Kotadeniyawa,Kotadeniyawa, Katukenda,Pethigoda"
+  },
+  {
+    "Group": "Group A",
+    "District": "Pannipitiya",
+    "Feeder Number": 1,
+    "Affected Areas": "Arawwala, Makuluduwa, Manpe, 255 Rd, Maharagama Rd, Miriswatta Rd,"
+  },
+  {
+    "Group": "Group A",
+    "District": "Pannipitiya",
+    "Feeder Number": 2,
+    "Affected Areas": "Pinhena,Mattegoda,Polgasowita,Jayaliyagama,Siddamulla,Palanwatta,Gorakapitiya,Nampamunuwa,Arawwala,Morakatiya,Mahalwarawa,Deepangoda,Kiriwathtudu wa,Munamale,Diyagama,Yakahaluwa,Magammana,Dole Kade,Hiripitiya,Pubudu Uyana"
+  },
+  {
+    "Group": "Group A",
+    "District": "Pannipitiya",
+    "Feeder Number": 5,
+    "Affected Areas": "Richard Peris, DKT Apperals"
+  },
+  {
+    "Group": "Group A",
+    "District": "Polonnaruwa",
+    "Feeder Number": 4,
+    "Affected Areas": "Polonnaruwa New Town, Jayanthipura, Palugasdamana, Manampitiya, Dimbulagala"
+  },
+  {
+    "Group": "Group A",
+    "District": "Ratmalana",
+    "Feeder Number": 7,
+    "Affected Areas": "Maliban Junction, Attidiya, Galle Rd, Attidiya Rd,"
+  },
+  {
+    "Group": "Group A",
+    "District": "Ratmalana",
+    "Feeder Number": 9,
+    "Affected Areas": "Motatuwa PSS"
+  },
+  {
+    "Group": "Group A",
+    "District": "Sri_Jpura",
+    "Feeder Number": 1,
+    "Affected Areas": "Thalawathugoda road from Pita Kotte to Kimbulawala Junction, Hospital road, New Hospital road, Thalapathpitiya road, Madiwela road, Old Kottawa road from Ambuldeniya to Nawinna, Wijerama road, Wijerama, Delkanda,High-level road from Wattegedara junction to Gamsaba junction"
+  },
+  {
+    "Group": "Group A",
+    "District": "Sri_Jpura",
+    "Feeder Number": 2,
+    "Affected Areas": "Pelawatta Pss- Baththaramulla, Polduwa,Pelawaththa,Thalawathugoda,"
+  },
+  {
+    "Group": "Group A",
+    "District": "Thulhiriya",
+    "Feeder Number": 4,
+    "Affected Areas": "Ambepussa,Tholangamuwa,Yattogoda Kotiyakumbura,"
+  },
+  {
+    "Group": "Group A",
+    "District": "Trincomalee",
+    "Feeder Number": 2,
+    "Affected Areas": "Andamkulam, 4th MP, 5th MP, China bay"
+  },
+  {
+    "Group": "Group A",
+    "District": "Ukuwela",
+    "Feeder Number": 4,
+    "Affected Areas": "Neluwakanda,Mathale,Pitakanda,Weragama,"
+  },
+  {
+    "Group": "Group A",
+    "District": "Vavunathivu",
+    "Feeder Number": 7,
+    "Affected Areas": "Kattankudy, Kalavanchikudy town, Kallavala, Chettipalayam, Pudukuduirippu, Manmuna, Palamuna, Ariyampathy"
+  },
+  {
+    "Group": "Group A",
+    "District": "Vavuniya",
+    "Feeder Number": 1,
+    "Affected Areas": "Poonthoddam, Vairavapuliyankulam, Paddanichchoor, Krumankadhu, Veppankulam, Kulumaddu Junction, Koomankulam, Marakrampalai, Nelukkulam, Sampalthoddam, Bharathipuram, Vinayakapuram, Reajendrakulam, Nagarilluppaikulam, Arukampulveli, Avusathappidiya, Navagama, Palayanoor, Ulukkulam"
+  },
+  {
+    "Group": "Group A",
+    "District": "Veyangoda",
+    "Feeder Number": 3,
+    "Affected Areas": "Nittambuwa CSC-Nittambuwa town Peoples Bank & Nihal Super around area"
+  },
+  {
+    "Group": "Group A",
+    "District": "Veyangoda",
+    "Feeder Number": 8,
+    "Affected Areas": "Dunagaha CSC ,Aluthepola Temple,Madampella Road, MIriswatta Road"
+  },
+  {
+    "Group": "Group B",
+    "District": "Ambalangoda",
+    "Feeder Number": 1,
+    "Affected Areas": "Agaliya, Kahaduwa"
+  },
+  {
+    "Group": "Group B",
+    "District": "Ambalangoda",
+    "Feeder Number": 2,
+    "Affected Areas": "Thalgaswala,Nagoda,Niyagama,Mapalagama,Udugama,Pitigala,Mattaka"
+  },
+  {
+    "Group": "Group B",
+    "District": "Ampara",
+    "Feeder Number": 1,
+    "Affected Areas": "Mandoor,Weeragoda, Galahitiyagoda, Kahatagasyaya"
+  },
+  {
+    "Group": "Group B",
+    "District": "Ampara",
+    "Feeder Number": 2,
+    "Affected Areas": "Kaluwanchikudy, Pattiruppu, onthachchimadam, puthukkudiyiruppu"
+  },
+  {
+    "Group": "Group B",
+    "District": "Aniyakanda",
+    "Feeder Number": 3,
+    "Affected Areas": "Ganemulla,Bollatha,Bulugahagoda, Yagoda,Kossinna, Galahitiyawa"
+  },
+  {
+    "Group": "Group B",
+    "District": "Aniyakanda",
+    "Feeder Number": 4,
+    "Affected Areas": ""
+  },
+  {
+    "Group": "Group B",
+    "District": "Anuradhapura",
+    "Feeder Number": 2,
+    "Affected Areas": "Wijepura, Nachchadoowa, Wilachchiya, Elayapaththuwa"
+  },
+  {
+    "Group": "Group B",
+    "District": "Anuradhapura",
+    "Feeder Number": 9,
+    "Affected Areas": "Galkulama"
+  },
+  {
+    "Group": "Group B",
+    "District": "Athurugiriya",
+    "Feeder Number": 4,
+    "Affected Areas": "Thalahena,Malabe Town,Arangala Handiya,Kahanthota,Hokandara"
+  },
+  {
+    "Group": "Group B",
+    "District": "Badulla",
+    "Feeder Number": 4,
+    "Affected Areas": "Bandarawela"
+  },
+  {
+    "Group": "Group B",
+    "District": "Badulla",
+    "Feeder Number": 3,
+    "Affected Areas": "Ella, Bandarawela, Haliela, Badulla"
+  },
+  {
+    "Group": "Group B",
+    "District": "Balangoda",
+    "Feeder Number": 8,
+    "Affected Areas": "Massenna, Meddekanda, Ellewatta, Kabaragala, Egoda Waleboda, Ihala Waleboda, Thorakanda, Gurubewilagama, Alupola, Samanalawatta"
+  },
+  {
+    "Group": "Group B",
+    "District": "Beliatta",
+    "Feeder Number": 5,
+    "Affected Areas": "Miella, Natuwala"
+  },
+  {
+    "Group": "Group B",
+    "District": "Bolawatta",
+    "Feeder Number": 6,
+    "Affected Areas": "bolawaththa"
+  },
+  {
+    "Group": "Group B",
+    "District": "Bolawatta",
+    "Feeder Number": 7,
+    "Affected Areas": "Dunagaha Miriswatta Rd, Disagewatta"
+  },
+  {
+    "Group": "Group B",
+    "District": "Chunnakam",
+    "Feeder Number": 12,
+    "Affected Areas": "Chunnakam, Earlalai, Kuppilan, Kadduvan, Maruthanaarmadam, Uduvil,Sanguvely, Manippay, Uppumadam, Thaavady, Suthumalai, Kokkuvil, Kulappiddy, Anaikoddai, Navaaly, Addakiri, Thirunelvely, Poonary Junction, Urumpirai, Inuvil,Kopay, Kondavil, Urelu, Karanthan, Neervely, Achchelu, Siruppidy, Irupalai, Kalviyankadhu, Nallur, Nayanmarkaddu, Ariyalai, Chemmani, Punnalaikadduvan,Evinai, Vahaiyadi"
+  },
+  {
+    "Group": "Group B",
+    "District": "Dehiwala",
+    "Feeder Number": 3,
+    "Affected Areas": "Dehiwala, Kohuwala, Nugegoda"
+  },
+  {
+    "Group": "Group B",
+    "District": "Embilipitiya",
+    "Feeder Number": 5,
+    "Affected Areas": "Kadurugasara, Thunkama, Kuttigala, Padalangala, Gotabayagama, Julangete, Barawakumbuka & Barawakumbuka, Ridiyagama, Mamadala, Koggalla"
+  },
+  {
+    "Group": "Group B",
+    "District": "Hambantota",
+    "Feeder Number": 1,
+    "Affected Areas": "Ambalantota, Nonagama, Mirijjawila, Hungama"
+  },
+  {
+    "Group": "Group B",
+    "District": "Hambantota",
+    "Feeder Number": 2,
+    "Affected Areas": "Hambantota Harbour"
+  },
+  {
+    "Group": "Group B",
+    "District": "Kegalle",
+    "Feeder Number": 8,
+    "Affected Areas": "Hatharaliyadda,Wattewa,Minigamuwa,"
+  },
+  {
+    "Group": "Group B",
+    "District": "Kerawalapitiya",
+    "Feeder Number": 4,
+    "Affected Areas": "Bulk supply"
+  },
+  {
+    "Group": "Group B",
+    "District": "Kilinochchi",
+    "Feeder Number": 6,
+    "Affected Areas": "Mankulam, Vannivilankulam, Ampalpuram, Selvapuram, Oddaruththakulam, Moorumurippu, Pandiyankulam, Ponagar Puvarasankulam, Vinayakapuram, Anichchiyankulam, Mallavi, Yogapuram, Therankadal, Theniyanulam, Thunukkai,Kalvilan"
+  },
+  {
+    "Group": "Group B",
+    "District": "Kiribathkumbura",
+    "Feeder Number": 1,
+    "Affected Areas": "Galaha,Mullgama,Morahena,Nillamba"
+  },
+  {
+    "Group": "Group B",
+    "District": "Kiribathkumbura",
+    "Feeder Number": 2,
+    "Affected Areas": "Galaha,Bellwood,Hallwatta,Delthota,Loolkandura"
+  },
+  {
+    "Group": "Group B",
+    "District": "kosgama",
+    "Feeder Number": 2,
+    "Affected Areas": "Meegoda,Lenagala, Panaluwa,Meepe,Arukwatta,Pitumpe"
+  },
+  {
+    "Group": "Group B",
+    "District": "Kotugoda",
+    "Feeder Number": 7,
+    "Affected Areas": "Bulk Supply"
+  },
+  {
+    "Group": "Group B",
+    "District": "Kotugoda",
+    "Feeder Number": 10,
+    "Affected Areas": "Dagonna, Akkara panaha, Anomawatta, Aluthapola Katuwallegam, Katiyala, Walimulla,Pattayamwatta"
+  },
+  {
+    "Group": "Group B",
+    "District": "Kotugoda",
+    "Feeder Number": 13,
+    "Affected Areas": "Minuwangoda, Hadirama to Peellawatta,Botiyawatta, Nawaloka J/N, Galkanda, Nilpanagoda, Minuwangoda Hospital,Wagowwa to Dewalapola, Paththaduwana,Kotugoda, Galoluwa,Ellangala, Muhungamuwa to Udugampola, Pradesheeya sabhawa, Burulpitiya,Walihena J/N, Hendimahara, Welhena, Kehelbaddara, nadagamuwa,Uggalboda,"
+  },
+  {
+    "Group": "Group B",
+    "District": "Kurunegala",
+    "Feeder Number": 4,
+    "Affected Areas": "wariyapola, Hiripitiya, Mallawapitiya"
+  },
+  {
+    "Group": "Group B",
+    "District": "Chilaw",
+    "Feeder Number": 1,
+    "Affected Areas": "Panduwasnuwara (Hettipola)"
+  },
+  {
+    "Group": "Group B",
+    "District": "Mahiyanganaya",
+    "Feeder Number": 8,
+    "Affected Areas": "Padiyatalawa"
+  },
+  {
+    "Group": "Group B",
+    "District": "Mathugama",
+    "Feeder Number": 2,
+    "Affected Areas": "Agalawatta, Baduraliya,"
+  },
+  {
+    "Group": "Group B",
+    "District": "Mathugama",
+    "Feeder Number": 4,
+    "Affected Areas": "Melwire Lanka"
+  },
+  {
+    "Group": "Group B",
+    "District": "Mathugama",
+    "Feeder Number": 10,
+    "Affected Areas": "Kaluwamodara PSS, Beruwala PSS"
+  },
+  {
+    "Group": "Group B",
+    "District": "Monaragala",
+    "Feeder Number": 3,
+    "Affected Areas": "Bibila, Badalkumbura"
+  },
+  {
+    "Group": "Group B",
+    "District": "Naula",
+    "Feeder Number": 3,
+    "Affected Areas": "Maddebadda,dambagolla,Nikawehera,Walasswawe"
+  },
+  {
+    "Group": "Group B",
+    "District": "Naula",
+    "Feeder Number": 2,
+    "Affected Areas": "Hapugaslanda,Madawelaullpotha,Gurullwela,"
+  },
+  {
+    "Group": "Group B",
+    "District": "Nuwara_Eliya",
+    "Feeder Number": 1,
+    "Affected Areas": "Nuwara Eliya town"
+  },
+  {
+    "Group": "Group B",
+    "District": "New_Anuradhapura",
+    "Feeder Number": 4,
+    "Affected Areas": "Talawa, Thambuttegama, Eppawala, Rajanganaya, Bulnewa"
+  },
+  {
+    "Group": "Group B",
+    "District": "New_Galle",
+    "Feeder Number": 1,
+    "Affected Areas": "Pinnaduwa, Kurunduwatta, Niyagama, Citrus, Balagoda, Poddala"
+  },
+  {
+    "Group": "Group B",
+    "District": "New_Galle",
+    "Feeder Number": 11,
+    "Affected Areas": "Panagamuwa, Pilana , Wanchawala, Ankokkawala, Bogahagoda, Puswelkada, Angulugaha, Heenatigala, Pitiduwa, Angulugaha , Wawulugala, Wathawana, Imaduwa, Mayakaduwa, Deegoda , Polhena,"
+  },
+  {
+    "Group": "Group B",
+    "District": "Panadura",
+    "Feeder Number": 7,
+    "Affected Areas": "Hirana, Galpotta, Eluwila, Pinwala, Mahawila, Melwatta, Uggalboda, Waskaduwa, Delduwa, Galpatha, Yatawara, Bolossagama,"
+  },
+  {
+    "Group": "Group B",
+    "District": "Panadura",
+    "Feeder Number": 6,
+    "Affected Areas": "Arukkgoda, Bandaragama, Diganathudawa, Retiyalagoda, Weedagama,Atalugama, Kiriberiya, Malamulla"
+  },
+  {
+    "Group": "Group B",
+    "District": "Pannala",
+    "Feeder Number": 3,
+    "Affected Areas": "Divulapitiya ,SR Steel,Welihinda"
+  },
+  {
+    "Group": "Group B",
+    "District": "Pannala",
+    "Feeder Number": 4,
+    "Affected Areas": "Dunagaha, Recogen, Miko"
+  },
+  {
+    "Group": "Group B",
+    "District": "Pannipitiya",
+    "Feeder Number": 9,
+    "Affected Areas": "Maharagama town, Dehiwala road (portion), Pamunuwa road, Pannipitiya old road (portion), High-level road from Pannipitiya junction to Wattegedara, Pathiragoda road, Polwatta road"
+  },
+  {
+    "Group": "Group B",
+    "District": "Polonnaruwa",
+    "Feeder Number": 2,
+    "Affected Areas": "Araliya Rice - Athumalpitiya"
+  },
+  {
+    "Group": "Group B",
+    "District": "Puttalam",
+    "Feeder Number": 4,
+    "Affected Areas": "Anamaduwa"
+  },
+  {
+    "Group": "Group B",
+    "District": "Ratnapura",
+    "Feeder Number": 1,
+    "Affected Areas": "Samagipura, Kotamulla, Hangamuwa, Dimiyawa, Dambuluwana, Elapatha, Gangulwitiya, Palawela, Niriella, Kehelowitigama, Kahangama, Dodampe, Gorakaela, Thunandahena, Kurugammodara, Idangoda, Kiriella, Ayagama, Gawaragiriya, Dumbara, Pimbura, Nikagoda"
+  },
+  {
+    "Group": "Group B",
+    "District": "Ratnapura",
+    "Feeder Number": 7,
+    "Affected Areas": "Kospelawinna, Weralupa, Court Junction, Newtown"
+  },
+  {
+    "Group": "Group B",
+    "District": "Sapugaskanda",
+    "Feeder Number": 3,
+    "Affected Areas": "Dalupitiya"
+  },
+  {
+    "Group": "Group B",
+    "District": "Sapugaskanda",
+    "Feeder Number": 9,
+    "Affected Areas": "Sapugaskanda, Udaya MW, Sirimangala MW, Kariyapperuma, Wilahena,Batalanda, Ghanamoli MW, Makola, Dewala Rd, Thembiligasmulla J/N"
+  },
+  {
+    "Group": "Group B",
+    "District": "Sri_Jpura",
+    "Feeder Number": 3,
+    "Affected Areas": "Nugegoda Pss-Leco Nugegoda town, Nawala road up to open university, Pita Kotte junction, Pagoda Road, Jubilee Post, Mirihana, Kattiya Junction, Gamsaba junction, High-level road from Nugegoda flyover to Gamsaba junction, Old"
+  },
+  {
+    "Group": "Group B",
+    "District": "Sri_Jpura",
+    "Feeder Number": 12,
+    "Affected Areas": "Akuregoda Army Head Quarters"
+  },
+  {
+    "Group": "Group B",
+    "District": "Sri_Jpura",
+    "Feeder Number": 7,
+    "Affected Areas": "Akuregoda Army Head Quarters"
+  },
+  {
+    "Group": "Group B",
+    "District": "Thulhiriya",
+    "Feeder Number": 2,
+    "Affected Areas": "Beligala,Wariyagoda,Ragalkanda,Alawwa,"
+  },
+  {
+    "Group": "Group B",
+    "District": "Trincomalee",
+    "Feeder Number": 1,
+    "Affected Areas": "Nilaveli,Erakkandy,Kumburupiddy,Kuchchaveli,Thiriyaya,Pulmude, Alas garden,Sambalthivu, Welgamwehera,Pankulama,Morawewa,Athabediwewa,MahadivulwewaNamalwaththa,Gomarank, Adawala, Galkadawala, Kivulakadawala, Milawewa, Kallampaththu, Selvanayagapura, Ambuvelipura, Jinna nagar, 3rd MP, Jamaliya, Sirimapura, NC Road"
+  },
+  {
+    "Group": "Group B",
+    "District": "Ukuwela",
+    "Feeder Number": 2,
+    "Affected Areas": "Poojapitiya,Ankumbura,Bokkawala"
+  },
+  {
+    "Group": "Group B",
+    "District": "Valachchenai",
+    "Feeder Number": 2,
+    "Affected Areas": "Part of Batti Town, Thirippanthurai, Sathurukoddan"
+  },
+  {
+    "Group": "Group B",
+    "District": "Vavuniya",
+    "Feeder Number": 3,
+    "Affected Areas": "Part of Vavuniya Town, Rampaikulam, Moonrumurripu, Mathavuvaithakulam, Eerapperiyakulam, Katkundamahu, Aluthgama, Boo-oya, Pahala aluthwaththa, Thavasikulam, Goodshed Road, Pandaarikkulam, Kovilkulam, Samanankulam, Achchipuram, Muruganoor, Kalnaddinakulam, Asikulam, Katkulam, Sithamparapuram, Velikulam to Thudduwahai"
+  },
+  {
+    "Group": "Group B",
+    "District": "Vavuniya",
+    "Feeder Number": 6,
+    "Affected Areas": "Thudduwewa to Thandikkulam, Paththiniyarmahilankulam to Manipuram, Suntharapuram, Sasthirikoolankulam, Eechchankulam to Eeswaripuram, Kalmadhu, Kakkayankulam, Kovilpuliyankulam, Iranaiyilupaikkulam, Parasankulam, Sinavalayankaddu, Kokeliya, Omanthai, Puliyankulam, Mamadu to Bogaswewa"
+  },
+  {
+    "Group": "Group B",
+    "District": "Veyangoda",
+    "Feeder Number": 6,
+    "Affected Areas": "Maligathanna, Naranwatta,Dewanwatta, Higgollawatta, Muddaragama, RMP Mill, Ilukhena,Mangedara, Boruggamuwa,Kinawala, Galgamuwa"
+  },
+  {
+    "Group": "Group C",
+    "District": "Ambalangoda",
+    "Feeder Number": 6,
+    "Affected Areas": "Kosgoda, Induruwa, Bentota, Haburugala"
+  },
+  {
+    "Group": "Group C",
+    "District": "Ambalangoda",
+    "Feeder Number": "G2",
+    "Affected Areas": "Avittawa, Pitigala, Kurundugaha Hethepma"
+  },
+  {
+    "Group": "Group C",
+    "District": "Ampara",
+    "Feeder Number": 5,
+    "Affected Areas": "Deegawapi,Irakkamam, Akkaraipattu,Komari, Thirukovil"
+  },
+  {
+    "Group": "Group C",
+    "District": "Ampara",
+    "Feeder Number": 10,
+    "Affected Areas": "Ampara Town"
+  },
+  {
+    "Group": "Group C",
+    "District": "Anuradhapura",
+    "Feeder Number": 6,
+    "Affected Areas": "Mihintale, Rambewa"
+  },
+  {
+    "Group": "Group C",
+    "District": "Anuradhapura",
+    "Feeder Number": 7,
+    "Affected Areas": "Saliyapura, Parasangaswewa"
+  },
+  {
+    "Group": "Group C",
+    "District": "Badulla",
+    "Feeder Number": 7,
+    "Affected Areas": "Wellawaya"
+  },
+  {
+    "Group": "Group C",
+    "District": "Badulla",
+    "Feeder Number": 8,
+    "Affected Areas": "Badulla, Meegahakiula"
+  },
+  {
+    "Group": "Group C",
+    "District": "Balangoda",
+    "Feeder Number": 3,
+    "Affected Areas": "Madampe, Kawuduwawa, Alpitiya, Galahitiya, Godakawela, Pallebedda, Kosnathota, Masimbula, Bibilegama, Niyangama, Hiramadagama, Emitiyagoda, Kumburugamuwa, Yapalara, Ambewila"
+  },
+  {
+    "Group": "Group C",
+    "District": "Beliatta",
+    "Feeder Number": 7,
+    "Affected Areas": "Miella, Natuwala"
+  },
+  {
+    "Group": "Group C",
+    "District": "Biyagama",
+    "Feeder Number": 10,
+    "Affected Areas": "Kandakapapu JN, Kokiskade JN, Renagala, Parakandeniya, Ranmuthugala, Mihidu MW, Batahena Rd, Weboda, Horawala, Kirillawatta, Hamugehena, Ambaraluwa, Araliyagaha JN, Weliweriya, Heenpanwila, Pincowatta, Udupila, Mahena"
+  },
+  {
+    "Group": "Group C",
+    "District": "Biyagama",
+    "Feeder Number": 11,
+    "Affected Areas": "Mawaramandiya Town, Obawatta, Galwala JN, Sabawa RD, Sagabo MW, Sapugaskanda, Gunarathna MW, Keselpadura JN"
+  },
+  {
+    "Group": "Group C",
+    "District": "Bolawatta",
+    "Feeder Number": 2,
+    "Affected Areas": "Bolawaththa"
+  },
+  {
+    "Group": "Group C",
+    "District": "Chunnakam",
+    "Feeder Number": 8,
+    "Affected Areas": "Arukalmadam, Navanthurai, Viloonri, Pannai, Kompyanmanal, Konanthoddam, Koddady, Hospital KKS Road Junction, Kanthappasekaram, 1st Cross Street, 2nd Cross Street, 3rd Cross Street, Grurnagar, Mandatheevu, Mankumpan, Allaipddy, Solawaththai"
+  },
+  {
+    "Group": "Group C",
+    "District": "Chunnakam",
+    "Feeder Number": 7,
+    "Affected Areas": "Sandilppay, Chankanai, Mahiyappiddy, Pandatharippu, Mathagal, Ilavalai, Jampukolappaddinam, Kaddupulam, Senthaankulam, Chulipuram, Thoddiladi, Vaddukoddaai, Moolai, Araly, Ponnalai, Karainagar, Thoppukadhu,  Kayts, Naranthani, Puliyankoodal, Thurayoor, Irupiddy, Pungudutheevu, Kurikadduvan, Velanai"
+  },
+  {
+    "Group": "Group C",
+    "District": "Dehiwala",
+    "Feeder Number": 8,
+    "Affected Areas": "Dehiwala, Mount Lavinia"
+  },
+  {
+    "Group": "Group C",
+    "District": "Embilipitiya",
+    "Feeder Number": 4,
+    "Affected Areas": "Moraketiya, Sewanagala, MauAra, Bahirawagama, Indikolapelessa, Kiriibbanara, Part of Southern province 2 & Thanamalwila"
+  },
+  {
+    "Group": "Group C",
+    "District": "Habarana",
+    "Feeder Number": 3,
+    "Affected Areas": "Habarana, Medirigiriya"
+  },
+  {
+    "Group": "Group C",
+    "District": "Habarana",
+    "Feeder Number": 8,
+    "Affected Areas": "Dambulla,Seegiriya,Inamaluwa"
+  },
+  {
+    "Group": "Group C",
+    "District": "Hambantota",
+    "Feeder Number": 6,
+    "Affected Areas": "Kataragama, Tissa, Debarawewa, Beralihela, Pannagamuwa"
+  },
+  {
+    "Group": "Group C",
+    "District": "Horana",
+    "Feeder Number": 2,
+    "Affected Areas": "Ingiriya,Gurugoda.Boralugoda,"
+  },
+  {
+    "Group": "Group C",
+    "District": "Horana",
+    "Feeder Number": 3,
+    "Affected Areas": "Munagama,Dikhena pura,Moragahahena,Thalgahawila,Batuwita,Horana Town,Kulupana,Padukka Road,Millawa,Olaboduwa,Thalagala,Walikala,Labugama, Gungamuwa"
+  },
+  {
+    "Group": "Group C",
+    "District": "Horana",
+    "Feeder Number": 12,
+    "Affected Areas": "Diyakaduwa,Govinnakanda,Egaloya,Bulathsinhala,Bothalegama,Hingurakanda,Udugala,Athura,Paruthalwila,Paragoda,Nirawella"
+  },
+  {
+    "Group": "Group C",
+    "District": "Kappalthurai",
+    "Feeder Number": 4,
+    "Affected Areas": "Kappalthure Village, Monkey Bridge"
+  },
+  {
+    "Group": "Group C",
+    "District": "Kelaniya",
+    "Feeder Number": 3,
+    "Affected Areas": "Peliyagoda PSS"
+  },
+  {
+    "Group": "Group C",
+    "District": "Kilinochchi",
+    "Feeder Number": 2,
+    "Affected Areas": "Jeyanthinagar, Selvanagar, Kanagapuram, Ampalkulam, Uruthirapuram, Konavail,Skanthapuram, Ampalaperumal, Part of Murukundy, Akkarayankulam to Vannerikkulam, Jeyapuram to Valaippadu, Pallavarayankaddu to Vellankulam"
+  },
+  {
+    "Group": "Group C",
+    "District": "Kiribathkumbura",
+    "Feeder Number": 7,
+    "Affected Areas": "Pitawalawatta.Meewathura,Gelioya,"
+  },
+  {
+    "Group": "Group C",
+    "District": "Kiribathkumbura",
+    "Feeder Number": 5,
+    "Affected Areas": "Hanthana,Ampitiya,Athulgama,"
+  },
+  {
+    "Group": "Group C",
+    "District": "Kolonnawa",
+    "Feeder Number": 4,
+    "Affected Areas": "Nawala Pss-Nawala Junction, Narahenpita road, Open university, Kolambage Mawatha, Koswatta Junction, Koswatta road, Kirimandala Mawatha (portion), old Nawala road, Senanayaka Mawatha, Nawala road from Welikada junction to Open University"
+  },
+  {
+    "Group": "Group C",
+    "District": "Kosgama",
+    "Feeder Number": 8,
+    "Affected Areas": "Pugoda, Pepiliwela, Meethirigala, Peragashandiya,Mandawala, Mahena, Nedungolla, Anuragoda, Horagasdeka, Lunugama, Pelahela, Putupagala, Rambutanwatta, Banagala, Kapugoda, Giridara, Mulatiyana, Thiththapaththara, Yataowita, Samanabedda,"
+  },
+  {
+    "Group": "Group C",
+    "District": "Kosgama",
+    "Feeder Number": 3,
+    "Affected Areas": "Kirindiwela, Puranpoththa, Meddegama, Madakotuwa, Urapola, Aththanagalla, Nikahetikanda, Karasnagala, Radawana. Wathurugama, Dikkanda, Udugama"
+  },
+  {
+    "Group": "Group C",
+    "District": "Kotugoda",
+    "Feeder Number": 1,
+    "Affected Areas": ""
+  },
+  {
+    "Group": "Group C",
+    "District": "Kotugoda",
+    "Feeder Number": 3,
+    "Affected Areas": "LECO,Raddolugama, Kotugoda - Seeduwa Rd"
+  },
+  {
+    "Group": "Group C",
+    "District": "Kotugoda",
+    "Feeder Number": 8,
+    "Affected Areas": "Batapaththala, Kongas junction, baduwaththa, Ambalayaya, Bambukuliya Junction, Bambukuliya Water Board, Thoppuwa Church, Thoppuwa, Maha Ethgala, Milagahawatta, welihena, welihena Church, Anandaramaya, Shriyangani Wela, Kandawala, Ananda Silva Mw, Pahala gama, Subasadaka Mw, Samanwela Watta, K.C.D. Silva pura, Baththota Cemetry,Thibirigaskatuwa,"
+  },
+  {
+    "Group": "Group C",
+    "District": "Mahiyanganaya",
+    "Feeder Number": 3,
+    "Affected Areas": "Bibile, Rideemaliyadda"
+  },
+  {
+    "Group": "Group C",
+    "District": "Mahiyanganaya",
+    "Feeder Number": 6,
+    "Affected Areas": "Hasalaka,Morayaya,Rantambe,Ududumbara,"
+  },
+  {
+    "Group": "Group C",
+    "District": "Chilaw",
+    "Feeder Number": 7,
+    "Affected Areas": "Madampe"
+  },
+  {
+    "Group": "Group C",
+    "District": "Chilaw",
+    "Feeder Number": 8,
+    "Affected Areas": "Chilaw, Madampe"
+  },
+  {
+    "Group": "Group C",
+    "District": "Maho",
+    "Feeder Number": 8,
+    "Affected Areas": "Nikaweratiya"
+  },
+  {
+    "Group": "Group C",
+    "District": "Mannar",
+    "Feeder Number": 2,
+    "Affected Areas": "Andankulam to Pallamdhu, Vannamoddai to Pallivasalpiddy, Uyilankulam toMurunkan, Adampan to Thiruketheeswaram, Murunkan  to Silawathurai  through Mullikulam, Murunkanpiddy to Naruvilikkulam"
+  },
+  {
+    "Group": "Group C",
+    "District": "Matara",
+    "Feeder Number": 6,
+    "Affected Areas": "Matara Kotuwegoda, Palllimulla, Meddawatta, Devinuwara, University of Ruhuna,Gandara, Veherahena, Kekanadura, Navimana"
+  },
+  {
+    "Group": "Group C",
+    "District": "Matara",
+    "Feeder Number": 10,
+    "Affected Areas": "Diyagaha"
+  },
+  {
+    "Group": "Group C",
+    "District": "Mathugama",
+    "Feeder Number": 6,
+    "Affected Areas": "Mathugama Town, Nebada"
+  },
+  {
+    "Group": "Group C",
+    "District": "Monaragala",
+    "Feeder Number": 7,
+    "Affected Areas": "Monaragala Town"
+  },
+  {
+    "Group": "Group C",
+    "District": "New_Galle",
+    "Feeder Number": 7,
+    "Affected Areas": "Kendala,Delkada,Madawala,Rathgama,,Mawadawila,Gonapinuwa,Aluthwala"
+  },
+  {
+    "Group": "Group C",
+    "District": "New_Galle",
+    "Feeder Number": 9,
+    "Affected Areas": "Walahanduwa, Ihalagoda, Kurunduwatta,Thalgampala, kakillahena, katandola,waththahena, Yakkalamulla, wathogala, karagoda, Minuwandeniya, Magedara,Pohudeniya, Ambakade,"
+  },
+  {
+    "Group": "Group C",
+    "District": "New_Anuradhapura",
+    "Feeder Number": 7,
+    "Affected Areas": "Kahatagasdigiliya, Horopothana"
+  },
+  {
+    "Group": "Group C",
+    "District": "Nuwara_Eliya",
+    "Feeder Number": 2,
+    "Affected Areas": "Welimada, Uva Paranagama"
+  },
+  {
+    "Group": "Group C",
+    "District": "Nuwara_Eliya",
+    "Feeder Number": 8,
+    "Affected Areas": "Nanuoya,UperKothmale"
+  },
+  {
+    "Group": "Group C",
+    "District": "Pallekele",
+    "Feeder Number": 11,
+    "Affected Areas": "Pichchamalwatta,Ampitiya,Batagalla,"
+  },
+  {
+    "Group": "Group C",
+    "District": "Pallekele",
+    "Feeder Number": 9,
+    "Affected Areas": "Sirimallwatta,Kundasale"
+  },
+  {
+    "Group": "Group C",
+    "District": "Pallekele",
+    "Feeder Number": 6,
+    "Affected Areas": "Victoriya, Maberithanna,Ambakote,"
+  },
+  {
+    "Group": "Group C",
+    "District": "Panadura",
+    "Feeder Number": 5,
+    "Affected Areas": "ambalangoda, Kirigampamunuwa, Wethara, Jamburaliya, Thuduwa."
+  },
+  {
+    "Group": "Group C",
+    "District": "Panadura",
+    "Feeder Number": 2,
+    "Affected Areas": "Molligoda PSS, Waskaduwa PSS, Morawinna PSS,"
+  },
+  {
+    "Group": "Group C",
+    "District": "Pannipitiya",
+    "Feeder Number": 12,
+    "Affected Areas": "Makubura,Kottawa,Pannipitiya,Kalalgoda,Vidyala Junction, thalawathugoda, Depanama,Horahena ,Thaalawathugoda, Hokandara -Malabe road"
+  },
+  {
+    "Group": "Group C",
+    "District": "Polonnaruwa",
+    "Feeder Number": 8,
+    "Affected Areas": "Unagalawehera, Somawathiya"
+  },
+  {
+    "Group": "Group C",
+    "District": "Sapugaskanda",
+    "Feeder Number": 8,
+    "Affected Areas": "Kotikawatta Pss, Kalapaluwawa,Halgahadeniya,Pasal Mw,Aggonawela Junction."
+  },
+  {
+    "Group": "Group C",
+    "District": "Sri_Jpura",
+    "Feeder Number": 5,
+    "Affected Areas": "Pothuarawa,Akuregoda,Wewapara,Pannipitiya Rd,Thalawathugoda,Wickramasinhapura,Kumaragewatta,Nagahamulla,Madiwela, Rd,Hokandara Rd,Wali Para"
+  },
+  {
+    "Group": "Group C",
+    "District": "Sri_Jpura",
+    "Feeder Number": 4,
+    "Affected Areas": "Baththaramulla-Pannipitiya Rd,Baththaramulla Town, Koswatta,Subuthipura,Gemunu MwUdumulla, Densil Kobbekaduwa Mw, Polduwa, Kubukgahaduwa Rd"
+  },
+  {
+    "Group": "Group C",
+    "District": "Thulhiriya",
+    "Feeder Number": 5,
+    "Affected Areas": "Giriulla"
+  },
+  {
+    "Group": "Group C",
+    "District": "Ukuwela",
+    "Feeder Number": 12,
+    "Affected Areas": "Kandy City ,Nugawela,"
+  },
+  {
+    "Group": "Group C",
+    "District": "Vavunathivu",
+    "Feeder Number": 2,
+    "Affected Areas": "Karadiyanaru, Illuppachenai, Kuruwamadu, Chenkalady, Vantharamulai, Eravur, Thannamunai, Thalavai, Weeragama, Nichchi nagar"
+  },
+  {
+    "Group": "Group C",
+    "District": "Vavunathivu",
+    "Feeder Number": 4,
+    "Affected Areas": "Navinna, tampitiya, Kakirihena, Nuwaragalathenna, Serankada, Aithimalai,Unnachchai, Karadiyanaru, Marapalam, Kittul, Kopavali, Periyapullumalai"
+  },
+  {
+    "Group": "Group C",
+    "District": "Veyangoda",
+    "Feeder Number": 4,
+    "Affected Areas": "Veyangoda CSC-Thihariya millagaha watta,ceyko project,tissa timber,thihariya, sanasa,sanasa sahana piyasa,ackzoon lanka,Thihariya Mada Rd,serandip,, Kurunduwatta, kalagedihena,glass glow,sugasthanna junction,Raniswala,, Mangalathiriya, Kalagedihena, Keenagahalanda Watta, Dimuthu Mawatha,, Bogamuwa, Aluthgama, Bogamuwa church Rd, Tiththalapitigoda, Ranisswala,, Mayfieldwatta,, Nittambuwa CSC- Nittambuwa town HNB Bank & Sirisada Hospital around area,, Around area Arpico show room, Kandahena, Around  area Bandaranayaka, Samdiya, orchad  Wattha, Horagolla, Around area Sangabodi Collage, Malwaththa, Handiya, Mihidu Mawatha, Thihariya town, Hijra Mawatha, Kaththota,, Pahalagama, Nabiritta, Godella, Dunnela, Dunumala, Behethwatta,, Kiththammahara, Udugoda, Kalaotuwawa, Warana, Mangalathiriya, Pilankada,, Weeragula, Bonagala, Uduthuththiripitiya, Gorakadeniya, Ogodapola,, Nelligahamula, Ambagaspitiya, Warapalana, Kahabilihena,Kaburugalwatta, Sudu, Nelum Mawatha, Welagedara, Haggalla, Unagahadeniya, Ruggahawila,, Kaburugalla, Kahataowita, Bulugaha Handiya, Angampitiya, Ogodapola, Opathella,, Pansilu Uyana, Arupassa, Walgammulla, Agurubiththiya, Ruwanpura, Lawulupitiya, Galboda, Dematalanda, Dikkanda"
+  },
+  {
+    "Group": "Group C",
+    "District": "Veyangoda",
+    "Feeder Number": 7,
+    "Affected Areas": "Maradagahamula Town,  Hunumulla,Hospital, Divulapitiya,Ballapana,Rassapana,Heralugedara,Dombawinna"
+  },
+  {
+    "Group": "Group D",
+    "District": "Ambalangoda",
+    "Feeder Number": 5,
+    "Affected Areas": "Meetiyagoda, Batapola, Karandeniya"
+  },
+  {
+    "Group": "Group D",
+    "District": "Ampara",
+    "Feeder Number": 3,
+    "Affected Areas": "Kalmunai,Sammanthurai, Maruthamunai, Pandiruppu"
+  },
+  {
+    "Group": "Group D",
+    "District": "Aniyakanda",
+    "Feeder Number": 6,
+    "Affected Areas": "Heenkenda, Talagolla, Teawatta Church, Galwala Junction, Karagahamuna, Ragama Town, Ragama Hospital, Jayasirigama, Polgahahena, Horape, Mahara Nugegoda, Welipillawa, Teawatta road"
+  },
+  {
+    "Group": "Group D",
+    "District": "Anuradhapura",
+    "Feeder Number": 8,
+    "Affected Areas": "Medawachchiya, Rathmalgahawewa Road, Poonewa, Mannar Road"
+  },
+  {
+    "Group": "Group D",
+    "District": "Athurugiriya",
+    "Feeder Number": 2,
+    "Affected Areas": "Pittugala,Gamunupura,Isurupura,Wewapara,Kothalawala,Pattiyawatta, Sudharshana mw,Welivita Rd"
+  },
+  {
+    "Group": "Group D",
+    "District": "Athurugiriya",
+    "Feeder Number": 5,
+    "Affected Areas": "Oruwala,Mullegama,Habarakada,Ranala Road,Podi Handiya,1st post,2nd post,Old Junction"
+  },
+  {
+    "Group": "Group D",
+    "District": "Badulla",
+    "Feeder Number": 5,
+    "Affected Areas": "Passara"
+  },
+  {
+    "Group": "Group D",
+    "District": "Biyagama",
+    "Feeder Number": 13,
+    "Affected Areas": "Kadawataha Town, Kadawataha Ragama Rd, Bandarawatta, Amstrong JN, Aldeniya, Suriyapaluwa, Ranmuthugala,S.T.F Rd, Pemananda MW, Mahakade Rd, Kastukurunda Gonahena Rd, 9th mile post Kandy Rd, Pushparama Rd, Mahara JN, Jinasena MW, Mankada Rd, Jayantha MW, Samadana MW, Darmashoka MW, Wijaya MW, Kusum MW"
+  },
+  {
+    "Group": "Group D",
+    "District": "Bolawatta",
+    "Feeder Number": 10,
+    "Affected Areas": "Periyamulla PSS, Pitipana, tHalahena, Dungalpitiya,Sarakkuwa,Browns beach, Hotel side, Gold de Sand,Palagathure Church,Subasadaka Mawatha, Dalupotha,Kattuwa,Daluwakotuwa RE"
+  },
+  {
+    "Group": "Group D",
+    "District": "Chunnakam",
+    "Feeder Number": 9,
+    "Affected Areas": "Navatkuli, Kaithady, Maravanpulavu, Aruguveli, Madduvil, Nunavil, Kalvayal,Sarasalai, Chavakchcheri Town, Kachchai, Arasady, Allarai, Ketpeli,Vellampokaddi, Meesalai, Kodikamam, Varani, Navalady, Mirusuvil,Eluthumadduval"
+  },
+  {
+    "Group": "Group D",
+    "District": "Chunnakam",
+    "Feeder Number": 10,
+    "Affected Areas": "Nilavarai, Siruppidy, Puthur, Avarangal, Achchuveli, Idaikkadhu, Thondamanaru, Kerudavil, Akkarai, Valveddithurai, Uduppidy, Puraporukky, Mandaan, Polikandy, Nediyakadhu, Nelliyadi, Karaveddy, Thamaraikulaththady, Jarkkaru, Thikkam, Vathiry, Irumpumathavady, Maalu Junction, Vijaparimoolai, Pointpedro Town,  Manthikai, Vallipuram"
+  },
+  {
+    "Group": "Group D",
+    "District": "Dehiwala",
+    "Feeder Number": 6,
+    "Affected Areas": "Attidiya PSS and Dehiwala PSS"
+  },
+  {
+    "Group": "Group D",
+    "District": "Dehiwala",
+    "Feeder Number": 7,
+    "Affected Areas": "Boralesgamuwa Pss"
+  },
+  {
+    "Group": "Group D",
+    "District": "Deniyaya",
+    "Feeder Number": 5,
+    "Affected Areas": "Andaradeniya,Yatulla,Hanferd,Anilkanda,Panikanda,Buthkanda,Keenathenna,Hayes Watta,Gonagala,Nedola"
+  },
+  {
+    "Group": "Group D",
+    "District": "Embilipitiya",
+    "Feeder Number": 8,
+    "Affected Areas": "Middeniya, Panamura, Mullendiyawala, Jandura, Gamakanda, Kempane, Helwala & Middeniya, Medamulana, Hellala, Thalawa, Buweliara"
+  },
+  {
+    "Group": "Group D",
+    "District": "Habarana",
+    "Feeder Number": 6,
+    "Affected Areas": "Dambulla,Kandalama,Elahara"
+  },
+  {
+    "Group": "Group D",
+    "District": "Hambantota",
+    "Feeder Number": 8,
+    "Affected Areas": "Kirinda, Yala, Palatupana"
+  },
+  {
+    "Group": "Group D",
+    "District": "Kegalle",
+    "Feeder Number": 1,
+    "Affected Areas": "Rambukkana,Pinnawala,Daliwala"
+  },
+  {
+    "Group": "Group D",
+    "District": "Kelaniya",
+    "Feeder Number": 4,
+    "Affected Areas": "Kiribathgoda PSS"
+  },
+  {
+    "Group": "Group D",
+    "District": "Kilinochchi",
+    "Feeder Number": 1,
+    "Affected Areas": "Kilinochchi Town, Paranthan, Ratnapuram through Vaddakachchi to Irananimadhu"
+  },
+  {
+    "Group": "Group D",
+    "District": "Kiribathkumbura",
+    "Feeder Number": 9,
+    "Affected Areas": "Yatinuwara,Pilimathalawa,Kiribathkumbura,Pahalakadugannawa"
+  },
+  {
+    "Group": "Group D",
+    "District": "Kiribathkumbura",
+    "Feeder Number": 4,
+    "Affected Areas": "Nugawela,Sunilagama,Arambekade,Hadeniya"
+  },
+  {
+    "Group": "Group D",
+    "District": "Kosgama",
+    "Feeder Number": 1,
+    "Affected Areas": "Pahathgama, Ranala, Hanwella & Kaluaggala,Jalthara,Batawala,Ambulgama,Lewkewela"
+  },
+  {
+    "Group": "Group D",
+    "District": "Kotugoda",
+    "Feeder Number": 11,
+    "Affected Areas": "Niwasipura"
+  },
+  {
+    "Group": "Group D",
+    "District": "Kotugoda",
+    "Feeder Number": 9,
+    "Affected Areas": "Yakkala CSC- Hansagiri road, Werellawatta, Miriswatta, Balummahara, Ihala, Imbulgoda, Imbulgoda, Rajasinghe Mw, Rathupaswala, Yakkala Town, Maharagama, Bandarawatta, Moranna, Batagolla, Pilikuththuwa, Kinigama, Maligathenna, Neelammahara, Batapola, Gampaha CSC-Gampaha Hospital, Gampaha Town, Bauddaloka Mw, Colombo rd, Ananda Mw, Siyane rd, Church rd, Oruthota rd, Moragoda, Mudungoda"
+  },
+  {
+    "Group": "Group D",
+    "District": "Kurunegala",
+    "Feeder Number": 11,
+    "Affected Areas": "Mallawapitiya , Rideegama"
+  },
+  {
+    "Group": "Group D",
+    "District": "Mahiyanganaya",
+    "Feeder Number": 1,
+    "Affected Areas": "Hasalaka , Hettipola,"
+  },
+  {
+    "Group": "Group D",
+    "District": "Mahiyanganaya",
+    "Feeder Number": 7,
+    "Affected Areas": "Giradurukotte"
+  },
+  {
+    "Group": "Group D",
+    "District": "Matara",
+    "Feeder Number": 12,
+    "Affected Areas": "Akuressa"
+  },
+  {
+    "Group": "Group D",
+    "District": "Matara",
+    "Feeder Number": 8,
+    "Affected Areas": "Weligama"
+  },
+  {
+    "Group": "Group D",
+    "District": "Mathugama",
+    "Feeder Number": 3,
+    "Affected Areas": "Dikpita, Meegahathenna,Lewwanduwa, Miriswatta, Ittapana, Gammana, Pareigama,Karapagoda"
+  },
+  {
+    "Group": "Group D",
+    "District": "Mathugama",
+    "Feeder Number": 5,
+    "Affected Areas": "Pelawatta"
+  },
+  {
+    "Group": "Group D",
+    "District": "Monaragala",
+    "Feeder Number": 1,
+    "Affected Areas": "Buttala, okkampitiya, Wellawaya"
+  },
+  {
+    "Group": "Group D",
+    "District": "New_Anuradhapura",
+    "Feeder Number": 5,
+    "Affected Areas": "Anuradhapura New Town, Pubudupura, Dahayyagama, Bulankulama Dissa Mawatha"
+  },
+  {
+    "Group": "Group D",
+    "District": "New_Galle",
+    "Feeder Number": 5,
+    "Affected Areas": "Beligaha PSS LECO Area (Galle, Aththiligoda, Boosa,Dadalla)"
+  },
+  {
+    "Group": "Group D",
+    "District": "New_Galle",
+    "Feeder Number": 6,
+    "Affected Areas": "Dickela PSS LECO Area( Galle fort, Thalapitya, Katugoda)"
+  },
+  {
+    "Group": "Group D",
+    "District": "New_Galle",
+    "Feeder Number": "SF1",
+    "Affected Areas": "Pinduwa, Manawila,Thalagaha, Niyagama, Meepawala, Batuwanthudawa, Uluwitike, Baswatta"
+  },
+  {
+    "Group": "Group D",
+    "District": "Pallekele",
+    "Feeder Number": 1,
+    "Affected Areas": "Balagolla,Pallekale"
+  },
+  {
+    "Group": "Group D",
+    "District": "Pallekele",
+    "Feeder Number": 10,
+    "Affected Areas": "Karalliyadda,Hunnasgiriya,Ududumbara,Ahaspokuna,Digana,Rangama"
+  },
+  {
+    "Group": "Group D",
+    "District": "Panadura",
+    "Feeder Number": 8,
+    "Affected Areas": "Kesbewa, Bandaragama Rd, Madapatha Rd, Madawila Rd, Kahathuduwa, Koralaima, Jambugasmull Rd,"
+  },
+  {
+    "Group": "Group D",
+    "District": "Ratmalana",
+    "Feeder Number": 3,
+    "Affected Areas": "Katubedda Pss"
+  },
+  {
+    "Group": "Group D",
+    "District": "Ratmalana",
+    "Feeder Number": 4,
+    "Affected Areas": "Gangarama Rd, 120 Route, Katuwawala, Bokundadara Vishwa Kalawa, Piliyandala"
+  },
+  {
+    "Group": "Group D",
+    "District": "Ratmalana",
+    "Feeder Number": 5,
+    "Affected Areas": "Angulana PSS"
+  },
+  {
+    "Group": "Group D",
+    "District": "Sapugaskanda",
+    "Feeder Number": 11,
+    "Affected Areas": "Gonawala, Koholwila, Koskumbura, Nagahamula JN, Rathupalliya, Thalwatta, Around Sarasavi Studio"
+  },
+  {
+    "Group": "Group D",
+    "District": "Seethawka",
+    "Feeder Number": 1,
+    "Affected Areas": "Aluthambalama, miriswatta, Beragala, Higurala, Eswatta, Puwakwatta, Elston estate, Ukwatta, Ilukovita, manikkawatta, Kudagama, Thummodara"
+  },
+  {
+    "Group": "Group D",
+    "District": "Sri_Jpura",
+    "Feeder Number": 9,
+    "Affected Areas": "Ethulkotte Pss-Rajagiriya town , parliament road, welikada junction, Buthgamuwa road from Rajagiriya to IDH junction, Ambagaha junction, Madinnagoda road, Meda Welikada road,"
+  },
+  {
+    "Group": "Group D",
+    "District": "Thulhiriya",
+    "Feeder Number": 6,
+    "Affected Areas": "Kotiyakumbura, Atala, Pindeniya, Pitagaldeniya, Lahupana, Halmessa, Bogala, Maththamagoda, Galapitamada, Thalliyadda, Basnagoda, Kadigamuwa, Imbulana, Warawala, Kannaththota, Kotiyakumbura,Gonagaldeniya"
+  },
+  {
+    "Group": "Group D",
+    "District": "Trincomalee",
+    "Feeder Number": 5,
+    "Affected Areas": "Kinniya,Kurinchakerny, Vattamadu, Thambalagamuwa part, Pudukuduirippu, SoorangalSampur, Muthur, Thoppur, Serunuwara, Arippu, Veruhal"
+  },
+  {
+    "Group": "Group D",
+    "District": "Trincomalee",
+    "Feeder Number": 7,
+    "Affected Areas": "Vellamanal, Chaina bay, nachchimalai, Part of Thoppur, Neelapola,"
+  },
+  {
+    "Group": "Group D",
+    "District": "Ukuwela",
+    "Feeder Number": 5,
+    "Affected Areas": "Mathale Town,Allwela,"
+  },
+  {
+    "Group": "Group D",
+    "District": "Ukuwela",
+    "Feeder Number": 9,
+    "Affected Areas": "Wattegama,Allkaduwa,Hunnasgiriya,Yatirawana,"
+  },
+  {
+    "Group": "Group D",
+    "District": "Valachchenai",
+    "Feeder Number": 3,
+    "Affected Areas": "Vattavan, Mankenei, Panichchankerny, Kajuwatta, Vakarai, Kadiravely, Verugal"
+  },
+  {
+    "Group": "Group D",
+    "District": "Valachchenai",
+    "Feeder Number": 4,
+    "Affected Areas": "Mamangam, Thiraimadu, Kallady, Manjanthoduwai"
+  },
+  {
+    "Group": "Group D",
+    "District": "Valachchenai",
+    "Feeder Number": 6,
+    "Affected Areas": "Valachchena, Kavaththamunai, Oddamavadi, Semmanodai, Weeraodai, Mavadichenai, Karuwankerni, Sungankerny, Kumburumoolai, Kiran"
+  },
+  {
+    "Group": "Group D",
+    "District": "Vaunathive",
+    "Feeder Number": 1,
+    "Affected Areas": "Thandiady, Pavapadichena, Karavetty, Nawalkadu, Vavunatheevu"
+  },
+  {
+    "Group": "Group D",
+    "District": "Vavunathivu",
+    "Feeder Number": 5,
+    "Affected Areas": "Kokkadicholai, Mahiladitheevu, Ambalanthura, Palugamam, Sungankerny,Thanthamulai"
+  },
+  {
+    "Group": "Group D",
+    "District": "Vavuniya",
+    "Feeder Number": 2,
+    "Affected Areas": "Nelukkulam to Parayanalankulam, Pulithariththapuliyankulam to Chekkaddipulavu, Piramanalankulam to periyathampanai, Periyapandivirichchan to Madhu, Thadchanamaruthamadhu to Periyamadhu, Eechchalawakkai to Pallamadhu, Vidathaltheevu to Vellankulam, Vellamkulam to Ganeshapuram"
+  },
+  {
+    "Group": "Group D",
+    "District": "Veyangoda",
+    "Feeder Number": 10,
+    "Affected Areas": "Udugama, Alawatta, Finance Watta, Greenway State, Naranwatta, Nikadowatta, Suriyasewana auctionland, Yatagama, Nalapaha, Madagampitiya, Vithnamulla, Kasagaha Wattha, Peenas Wattha, Vajira Niwasa."
+  },
+  {
+    "Group": "Group D",
+    "District": "Veyangoda",
+    "Feeder Number": 5,
+    "Affected Areas": "Veyangoda CSC-Around Food Stores, Veyangoda Church, Telecom, Nidahas Mawata , Wataddara, Gamameda, Eluwapitiya, Naiwala Town, around Naiwala, Technical, Bangalawatta, Vigoda, Walpitamulla, Uludeniyawatta, Balabowa, Sarada Uyana, Pitakotuwa, Korasa, Korasawatta, Paleeyatiyana, Mabodala, Metikotamulla, Essalla, Dewalapola, Watinapaha., Wadurawa, Mottunna, Kubaloluwa, Paramulla, Asiriuyana, Wawulhena, Magalegoda, Kandaoluwawa, Marapola, Korase road, Pasyala CSC-Pallewela, Walbolana, Galgana, Hansagiriya, Malwatta, Raddalgoda, Kaleliya, Kadar Mawatha, Mallehewa, Webadamulla, Korea Lanka, Dumunnegedara, Rathbalewatta, Bolana, Danselwatta, Galamuan Junction, Hapitigama, Makkanigoda, Kotakanda, Hiriwala, Nildiya Sewana, Idiparape, Siyabalagoda, Wijayarajadahana, Pohonnaruwa, Napewatta, Palmada"
+  }
+]
