@@ -9,21 +9,28 @@ import Input from './components/Input'
 // import Input from './components/Input'
 import Layout from './components/Layout'
 import Select from './components/Select'
-import { cities, districts, provinces } from './lib'
 import { FormEvent, useState } from 'react'
 import powerLine from './assets/images/icons8-electricity.png'
 import powerFixing from './assets/images/power_fixing.png'
 import Zone from './components/Zone'
+import data from './lib/data.json'
 
 const App = (): JSX.Element => {
   const [location, setLocation] = useState<string>('')
-  const [province, setProvince] = useState<string>('')
-  const [district, setDistrict] = useState<string>('')
+  const [district, setDistrict] = useState<number>(1)
   const [city, setCity] = useState<string>('')
+  const [content, setContent] = useState<string[]>()
+  const [group, setGroup] = useState<string>()
 
   const onSubmit = (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault()
     console.log(location)
+  }
+
+  const getGroup = (area: string) => {
+    const dGroup = data.filter((item) => item['Affected Areas'] === area)[0]
+    setGroup(dGroup.Group)
+    setDistrict(dGroup.ID)
   }
 
   return (
@@ -41,7 +48,7 @@ const App = (): JSX.Element => {
           </h4>
         </section>
         {/* input tags */}
-        <form onSubmit={onSubmit} className='w-full pb-12'>
+        <form onSubmit={onSubmit} className='w-full'>
           <div className='flex items-center space-x-4 mb-4'>
             <Input
               label='Location'
@@ -50,50 +57,80 @@ const App = (): JSX.Element => {
               placeholder='Location'
               wrapperStyles='w-full'
               value={location}
-              onChange={(e: FormEvent<HTMLInputElement>) =>
+              onChange={(e: FormEvent<HTMLInputElement>) => {
                 setLocation(e.currentTarget.value)
-              }
+                const areas = data.filter((item) =>
+                  item['Affected Areas']
+                    .toLowerCase()
+                    .includes(location.toLowerCase())
+                )
+
+                setContent(areas.map((area) => area['Affected Areas']))
+              }}
             />
+
             <Button type='submit' width='w-32 sm:w-44'>
               Search
             </Button>
           </div>
-          <div className='inline-flex items-center space-x-3 w-full'>
-            <Select
-              name='province'
-              options={provinces}
-              value={province}
-              onChange={(e: FormEvent<HTMLInputElement>) =>
-                setProvince(e.currentTarget.value)
-              }
-            />
-            <Select
-              name='district'
-              options={districts}
-              value={district}
-              onChange={(e: FormEvent<HTMLInputElement>) =>
-                setDistrict(e.currentTarget.value)
-              }
-            />
-            <Select
-              name='city'
-              options={cities}
-              value={city}
-              onChange={(e: FormEvent<HTMLInputElement>) =>
-                setCity(e.currentTarget.value)
-              }
-            />
+          <div className='bg-white p-4 shadow-sm rounded-md'>
+            <ul>
+              {content?.map((item, i) => (
+                <li
+                  className='bg-secondary-base py-2 px-3 hover:bg-secondary-dark text-white transition ease-in mb-1 rounded-md'
+                  onClick={() => getGroup(item)}
+                  key={i}
+                >
+                  {item}
+                </li>
+              ))}
+            </ul>
           </div>
         </form>
+        <div className='inline-flex items-center space-x-3 w-full mb-12'>
+          <Select
+            name='district'
+            options={data.map((item) => ({
+              name: item.District,
+              id: item.ID,
+            }))}
+            value={district}
+            onChange={(e: FormEvent<HTMLInputElement>) =>
+              setDistrict(parseInt(e.currentTarget.value))
+            }
+          />
+
+          <Select
+            name='city'
+            options={
+              district
+                ? data
+                    .filter((item) => item.ID === district)[0]
+                    ['Affected Areas'].split(',')
+                    .map((area, i) => ({ name: area, id: area }))
+                : []
+            }
+            value={city}
+            onChange={(e: FormEvent<HTMLInputElement>) =>
+              setCity(e.currentTarget.value)
+            }
+          />
+        </div>
         <div className='grid grid-rows-1 grid-cols-1 md:grid-cols-5 gap-5 pb-8'>
           <div className='col-span-1 md:col-span-2 px-4 w-full'>
             {/* district */}
             <h3 className='text-primary-dark text-xl sm:text-2xl mb-3'>
-              Western |{' '}
-              <span className='text-secondary-base font-medium'>Ampara</span>
+              District |{' '}
+              <span className='text-secondary-base font-medium'>
+                {data.filter((item) => item.ID === district)[0].District}
+              </span>
             </h3>
-            <Zone timezone='17:30 - 18:30' />
-            <Zone timezone='17:30 - 18:30' />
+
+            <Zone
+              group={
+                group || data.filter((item) => item.ID === district)[0].Group
+              }
+            />
           </div>
           <div className='col-span-1 md:col-span-3 flex justify-center items-center'>
             <img className='' src={powerFixing} alt='power fixing' />

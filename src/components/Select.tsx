@@ -3,11 +3,13 @@ const Select = ({
   value,
   onChange,
   options,
+  defaultValue,
 }: {
   value: any
   onChange: any
   name: string
-  options: string[]
+  options?: { name: string | undefined; id: number | string }[]
+  defaultValue?: string
 }): JSX.Element => {
   return (
     <select
@@ -15,13 +17,14 @@ const Select = ({
       name={name}
       value={value}
       onChange={onChange}
+      defaultValue={defaultValue}
     >
       <option className='capitalize' value=''>
         {name}
       </option>
-      {options.map((option) => (
-        <option className='capitalize' key={option} value='option'>
-          {option}
+      {options?.map((option, i) => (
+        <option className='capitalize' key={i} value={option.id}>
+          {option.name}
         </option>
       ))}
     </select>
